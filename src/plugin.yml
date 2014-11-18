@@ -1,0 +1,8 @@
+name: XboxFreedomMod
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: 4.3
+description: Plugin for the Xbox Freedom server.
+softdepend: [BukkitTelnet, WorldEdit, Essentials]
+authors: [IceGamer94,Madgeek1450, DarthSalamon]
+
+# plugin.yml is no longer used to define commands.

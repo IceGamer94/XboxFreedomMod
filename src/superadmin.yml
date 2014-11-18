@@ -1,0 +1,19 @@
+#
+# SuperAdmin List
+#
+
+clean_threshold_hours: 168
+
+admins:
+   6c53b4e4-32c1-4072-b9ca-e4faedb62e4a:
+    last_login_name: IceGamer94
+    is_activated: true
+    is_telnet_admin: true
+    is_senior_admin: true
+    last_login: Sun, 12 Oct 2014 17:55:55 +0200
+    custom_login_message: the &cOwner&b and &aMr.CartmanHD!
+    console_aliases:
+    - Extra
+    - IceGamer
+    ips:
+    - 80.252.61.188
