@@ -43,7 +43,7 @@ public class TFM_Admin
         this.ips = section.getStringList("ips");
         this.lastLogin = TFM_Util.stringToDate(section.getString("last_login", TFM_Util.dateToString(new Date(0L))));
         this.loginMessage = section.getString("custom_login_message", "");
-        this.isSeniorAdmin = section.getBoolean("is_senior_admin", false);
+        this.isSeniorAdmin = section.getBoolean("is_senior_admin", false); 
         this.isTelnetAdmin = section.getBoolean("is_telnet_admin", false);
         this.consoleAliases = section.getStringList("console_aliases");
         this.isActivated = section.getBoolean("is_activated", true);
