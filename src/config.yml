@@ -29,7 +29,7 @@ server:
 forceip:
   enabled: false
 
-  # The port players should use to connect to your server; only applies to forceip
+  # The port players should use to connect to your server; only applies to forceIP
   port: 25565
 
   # The kick message sent to players when logging in with the wrong hostname
